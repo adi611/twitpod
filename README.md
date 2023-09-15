@@ -23,7 +23,7 @@ This project is a Full Stack Assignment created by Aditya Agarwal (Roll: CSE/200
 ### Brownie Tasks (optional):
 - [x] Deploy both the frontend and backend application.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Project Description](#project-description)
 - [Production Links](#production-links)
