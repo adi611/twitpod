@@ -1,6 +1,6 @@
 # Ivykids - Full Stack Assignment - IIIT Kalyani - 2024
 
-This project is a Full Stack Assignment created by Aditya Agarwal as part of Ivykid's assessment for the year 2024.
+This project is a Full Stack Assignment created by Aditya Agarwal (Roll: CSE/20004/524) as part of Ivykid's assessment.
 
 ## Production Links
 
@@ -28,4 +28,3 @@ This project is a Full Stack Assignment created by Aditya Agarwal as part of Ivy
 - [Project Description](#project-description)
 - [Production Links](#production-links)
 - [Tasks Fulfilled](#tasks-fulfilled)
-- [Contact Information](#contact-information)
