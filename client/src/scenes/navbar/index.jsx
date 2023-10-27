@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Twitter
+          Twitpod
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween

@@ -120,10 +120,10 @@ const UserWidget = ({ userId, picturePath }) => {
 
         {/* <FlexBetween gap="1rem" mb="0.5rem">
           <FlexBetween gap="1rem">
-            <img src="../assets/twitter.png" alt="twitter" />
+            <img src="../assets/Twitpod.png" alt="Twitpod" />
             <Box>
               <Typography color={main} fontWeight="500">
-                Twitter
+                Twitpod
               </Typography>
               <Typography color={medium}>Social Network</Typography>
             </Box>
