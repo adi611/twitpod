@@ -4,7 +4,7 @@ This project is a Full Stack Assignment created by Aditya Agarwal (Roll: CSE/200
 
 ## Production Links
 
-- Frontend: [Netlify](https://650482bc86508500087e7838--exquisite-cendol-9475af.netlify.app/) (complete integration with the backend!)
+- Frontend: [Netlify](https://exquisite-cendol-9475af.netlify.app/) (complete integration with the backend!)
 - Backend: [Cyclic.sh](https://wild-gold-waders.cyclic.cloud) (integrated into the frontend)
 - Database: MongoDB Atlas
 
